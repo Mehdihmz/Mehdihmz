@@ -10,8 +10,8 @@
 
 
 <a href="https://github.com/Mehdihmz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Mehdihmz&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Mehdihmz&show_icons=true" />
 </a>
 <a href="https://github.com/Mehdihmz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdihmz&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdihmz&show_icons=true" />
 </a>
