@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Mehdihmz">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehdihmz&show_icons=true&count_private=true&include_all_commits=true" /></a>
+
+<a href=&quothttps://github.com/Mehdihmz&quot>
+  <img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=Mehdihmz&show_icons=true&count_private=true&include_all_commits=true&quot />
+</a>
+
+<a href=&quothttps://github.com/Mehdihmz&quot>
+ <img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=Mehdihmz&quot />
+</a>
