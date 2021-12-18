@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/Mehdihmz">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdihmz" />
 </a>
+
+&theme=dracula
